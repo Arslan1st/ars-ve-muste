@@ -153,19 +153,21 @@ border-radius: 0px;
 }
 
 #home-sec {
+    
+    background-color:#ff00aa;
     padding-top:100px;
-    background-color-red;
-background-attachment: fixed;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-width: 100%;
-display: block;
-height: auto;
-   min-height:650px;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    display: block;
+    height: auto;
+    min-height:650px;
     color:#fff;
-}
+	 }
+
 .head-main {
     font-size:65px ;
     font-weight:900;
